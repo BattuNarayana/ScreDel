@@ -53,7 +53,7 @@ If you want to run the source code or build it yourself:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url-here>
+   git clone <https://github.com/BattuNarayana/ScreDel>
    cd Scredel
 
 2. **Install dependencies**
